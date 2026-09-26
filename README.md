@@ -1,1 +1,1 @@
-I'm testing :)
+This is a test
